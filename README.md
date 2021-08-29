@@ -2,7 +2,14 @@
 
 Powershell script(s) to install and/or update d2dx by fetching latest release from https://github.com/bolrog/d2dx
 
-## how to use just this once (more secure)
+## which script should I use ?
+
+A - Use "custom path" script if you want to install d2dx to a specific D2 game folder or if you don't know whether your D2 Registry keys are in order
+
+B - If you have only one D2 game folder and it was installed with official installer use "registry" script
+
+
+## how to run just this once (more secure)
 
 1 - Win + X (or Right-Click on Start Menu) -> Windows Powershell (Admin)
 
